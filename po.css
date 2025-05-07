@@ -1,0 +1,36 @@
+.nav{
+    position:relative;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid rgb(5, 4, 4);
+}
+.name:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    color: black;
+    font-family: cursive;
+}
+.location:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    color: black;
+    font-family: cursive;
+}
+.book:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    color: black;
+    font-family: cursive;
+}
+.sponsor:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    color: black;
+    font-family: cursive;
+}
+.program:hover{
+    transform: scale(1.3);
+    transition: all 0.5s;
+    color: black;
+    font-family: cursive;
+}
